@@ -3,6 +3,7 @@ import 'dart:async';
 // ignore: implementation_imports
 import 'package:sentry/src/sentry_tracer.dart';
 import 'package:flutter/widgets.dart';
+import 'package:sentry_flutter/sentry_flutter.dart';
 
 import '../sentry_native.dart';
 import '../sentry_native_channel.dart';
